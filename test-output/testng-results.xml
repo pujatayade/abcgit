@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33675" started-at="2019-12-05T05:15:02Z" finished-at="2019-12-05T05:15:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33675" started-at="2019-12-05T05:15:02Z" finished-at="2019-12-05T05:15:36Z">
+      <class name="com.qa.testcases.Login_Test">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="Setup" is-config="true" duration-ms="6761" started-at="2019-12-05T05:15:02Z" finished-at="2019-12-05T05:15:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="TitleTest()[pri:1, instance:com.qa.testcases.Login_Test@3bfdc050]" name="TitleTest" duration-ms="19" started-at="2019-12-05T05:15:09Z" finished-at="2019-12-05T05:15:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="teardown" is-config="true" duration-ms="659" started-at="2019-12-05T05:15:09Z" finished-at="2019-12-05T05:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="Setup" is-config="true" duration-ms="4424" started-at="2019-12-05T05:15:10Z" finished-at="2019-12-05T05:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="logoTest()[pri:2, instance:com.qa.testcases.Login_Test@3bfdc050]" name="logoTest" duration-ms="81" started-at="2019-12-05T05:15:14Z" finished-at="2019-12-05T05:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="teardown" is-config="true" duration-ms="921" started-at="2019-12-05T05:15:14Z" finished-at="2019-12-05T05:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="Setup" is-config="true" duration-ms="3744" started-at="2019-12-05T05:15:15Z" finished-at="2019-12-05T05:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="company_wordTest()[pri:4, instance:com.qa.testcases.Login_Test@3bfdc050]" name="company_wordTest" duration-ms="85" started-at="2019-12-05T05:15:19Z" finished-at="2019-12-05T05:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- company_wordTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="teardown" is-config="true" duration-ms="694" started-at="2019-12-05T05:15:19Z" finished-at="2019-12-05T05:15:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="Setup" is-config="true" duration-ms="3792" started-at="2019-12-05T05:15:20Z" finished-at="2019-12-05T05:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="password_placeholderTest()[pri:8, instance:com.qa.testcases.Login_Test@3bfdc050]" name="password_placeholderTest" duration-ms="59" started-at="2019-12-05T05:15:24Z" finished-at="2019-12-05T05:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password_placeholderTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="teardown" is-config="true" duration-ms="705" started-at="2019-12-05T05:15:24Z" finished-at="2019-12-05T05:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="Setup" is-config="true" duration-ms="3678" started-at="2019-12-05T05:15:24Z" finished-at="2019-12-05T05:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="loginTest()[pri:9, instance:com.qa.testcases.Login_Test@3bfdc050]" name="loginTest" duration-ms="7309" started-at="2019-12-05T05:15:28Z" finished-at="2019-12-05T05:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.testcases.Login_Test@3bfdc050]" name="teardown" is-config="true" duration-ms="718" started-at="2019-12-05T05:15:35Z" finished-at="2019-12-05T05:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.testcases.Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
